@@ -1,6 +1,6 @@
-# 👋 Hi! I'm a .NET Developer
+# Welcome to my GitHub profile
 
-I am a passionate software developer with a strong focus on **.NET (C#)** and backend development, while also working with modern frontend and mobile technologies such as **React and React Native***.  
+!'m Theres, a passionate software developer with a strong focus on **.NET (C#)** and backend development, while also working with modern frontend and mobile technologies such as **React and React Native***.  
 I enjoy building structured, maintainable, and user-friendly applications with clean architecture and high code quality. 
 
 ---
