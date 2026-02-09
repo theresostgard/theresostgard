@@ -68,6 +68,7 @@ I enjoy building structured, maintainable, and user-friendly applications with c
 Feel free to reach out via GitHub or LinkedIn:
 
 🔗 LinkedIn: https://www.linkedin.com/in/theres-%C3%B6stg%C3%A5rd-597330301/
+
 📧 Email: theresb88@gmail.com 
 
 ---
